@@ -26,7 +26,7 @@ body {
 }
 
 .logo {
-    width: 50%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -39,6 +39,7 @@ body {
 
 .contenedorLogo h1 {
     font-size: 1.8em;
+    
 }
 
 .logo p {
